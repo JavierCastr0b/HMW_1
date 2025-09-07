@@ -27,7 +27,7 @@ clear() → elimina todos los elementos.
 
 reverse() → invierte la lista.
 
-sort() → ordena la lista en orden ascendente (insertion sort).
+sort() → ordena la lista en orden ascendente.
 
 
 
